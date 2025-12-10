@@ -10,3 +10,4 @@ dataAsArray.forEach(([seasons,data])=>{
 
 console.log(`Самый прибыльный сезон: ${maxIncomeSeason[0]}`)
 console.log(`Прибыль за этот сезон: ${maxIncomeSeason[1].income}`)
+console.log(`Test`)
